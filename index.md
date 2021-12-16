@@ -50,7 +50,7 @@
  פטמות
  פמיניזציה,משחקי תפקידים<br> שליטה מנטלית, שעווה, שוט, קשירות שיבארי,השפלות<br>
 
-</p> <br> <a href="www.FetishDeal.co.il"> בקרו באתר </a>
+</p> 
 
     
     
@@ -115,7 +115,9 @@
                <h2>053-871-0305</h2>
             </div> <br> <a href="www.FetishDeal.co.il"> בקרו באתר </a>
         </section>
-      
+        <a href="https://FetishDeal.co.il/">
+                           <img border="0" alt="W3Schools" src="resources/img/Screen Shot 2021-12-16 at 20.10.45.png" width="100%" >
+                            </a>
     
       <footer>
         <div class="row">
